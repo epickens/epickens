@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @epickens
-- 👀 I’m interested in statistics, computational social science, operations research, machine learning, and graph algorithms
-- 📫 You can reach me @ElliotPickens on Twitter
+- 👀 I’m interested in statistics, computational social science, operations research, machine learning, and computational economics
+- 📫 You can reach me at epickens@cs.wisc.edu
+- You can also find me @ElliotPickens on Twitter (but I hardly use it these days)
+- Check out my work on my homepage https://epickens.github.io/
 
 <!---
 epickens/epickens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
