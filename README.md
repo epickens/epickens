@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epickens
-- 🦡 I'm currently a PhD student in the CIS department @ UPenn
-- 👀 I’m interested in statistics, computational social science, operations research, machine learning, and computational economics
+- 🦅 I'm currently a PhD student in the CIS department @ UPenn
+- 👀 I’m interested in NLP, computational social science, machine learning, statistics, and operations research
 - 📫 You can reach me at epickens@seas.upenn.edu
 - Check out my work on my homepage https://epickens.github.io/ (it's about a year out of date, but I'll update it soon...)
 
